@@ -23,6 +23,7 @@ public class Converter {
       v = JOptionPane.showInputDialog("Введите число:");
       c = new Convert(2, Integer.parseInt(md), Integer.parseInt(v));
       c.getMetricM();
+      // Changes for GIT
     }
   }
 }
